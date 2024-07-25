@@ -1,10 +1,10 @@
 import React from 'react';
 import {View, Text} from 'react-native';
 
-export const HorizontalCarousel = () => {
+export const ProductScreen = () => {
   return (
     <View>
-      <Text>HorizontalCarousel</Text>
+      <Text>ProductScreen</Text>
     </View>
   );
 };
